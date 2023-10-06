@@ -50,5 +50,5 @@ svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/
 # git apply ../config/patches/{0001*,0002*}.patch --directory=feeds/luci
 #
 # ------------------------------- Other ends -------------------------------
-git apply target/linux/rockchip/patches-6.1/992-rockchip-rk3399-overclock-to-2.2-1.8-GHz.patch
+#git apply target/linux/rockchip/patches-6.1/992-rockchip-rk3399-overclock-to-2.2-1.8-GHz.patch
 
